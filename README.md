@@ -14,7 +14,7 @@ I'm a passionate Software Engineering student at the National School of Applied 
   <a href="https://www.linkedin.com/in/anas-zerhoun/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:anasszerhoun@gmail.com">
+  <a href="mailto:anasszerhoun2019@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
