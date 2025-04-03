@@ -11,15 +11,17 @@
 I'm a passionate Software Engineering student at the National School of Applied Sciences of Khouribga (ENSA). With a strong foundation in computer science and a knack for problem-solving, I've honed my programming skills through academic coursework and hands-on projects. My goal is to create innovative and efficient solutions in the field of software engineering.
 
 <div align="center">
-  <a href="https://anaszerhoun.vercel.app" target="_blank" ><img src="https://img.shields.io/badge/-PORTFOLIO-blue?style=flat-square" alt="ENSA Khouribga"/></a>
+    <a href="https://anaszerhoun.vercel.app" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:anasszerhoun2019@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/anas-zerhoun/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:anasszerhoun2019@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  
 </div>
-
 ## Skills & Technologies 🛠️
 
 
