@@ -3,9 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Software%20Engineering%20Student-blue?style=for-the-badge" alt="Software Engineering Student"/>
   <br>
-  <img src="https://img.shields.io/badge/-ENSA%20Khouribga-orange?style=flat-square" alt="ENSA Khouribga"/>
-  <br>
-  <a href="https://anaszerhoun.vercel.app" target="_blank" ><img src="https://img.shields.io/badge/-PORTFOLIO-blue?style=flat-square" alt="ENSA Khouribga"/></a>
+  <img src="https://img.shields.io/badge/-ENSA%20Khouribga-orange?style=flat-square" alt="ENSA Khouribga"/>  
 </div>
 
 ## About Me 🚀
@@ -13,6 +11,7 @@
 I'm a passionate Software Engineering student at the National School of Applied Sciences of Khouribga (ENSA). With a strong foundation in computer science and a knack for problem-solving, I've honed my programming skills through academic coursework and hands-on projects. My goal is to create innovative and efficient solutions in the field of software engineering.
 
 <div align="center">
+  <a href="https://anaszerhoun.vercel.app" target="_blank" ><img src="https://img.shields.io/badge/-PORTFOLIO-blue?style=flat-square" alt="ENSA Khouribga"/></a>
   <a href="https://www.linkedin.com/in/anas-zerhoun/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
