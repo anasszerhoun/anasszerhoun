@@ -22,8 +22,9 @@ I'm a passionate Software Engineering student at the National School of Applied 
   </a>
   
 </div>
-## Skills & Technologies 🛠️
 
+
+## Skills & Technologies 🛠️
 
 
 ### Web Technologies
