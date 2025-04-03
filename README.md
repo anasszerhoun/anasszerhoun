@@ -5,7 +5,7 @@
   <br>
   <img src="https://img.shields.io/badge/-ENSA%20Khouribga-orange?style=flat-square" alt="ENSA Khouribga"/>
   <br>
-  <a href="anaszerhoun.vercel.app" target="_blank" ><img src="https://img.shields.io/badge/-PORTFOLIO-blue?style=flat-square" alt="ENSA Khouribga"/></a>
+  <a href="https://anaszerhoun.vercel.app" target="_blank" ><img src="https://img.shields.io/badge/-PORTFOLIO-blue?style=flat-square" alt="ENSA Khouribga"/></a>
 </div>
 
 ## About Me 🚀
