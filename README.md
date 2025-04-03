@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/-Software%20Engineering%20Student-blue?style=for-the-badge" alt="Software Engineering Student"/>
   <br>
   <img src="https://img.shields.io/badge/-ENSA%20Khouribga-orange?style=flat-square" alt="ENSA Khouribga"/>
+  <br>
+  <a href="anaszerhoun.vercel.app" ><img src="https://img.shields.io/badge/-PORTFOLIO-blue?style=flat-square" alt="ENSA Khouribga"/></a>
 </div>
 
 ## About Me 🚀
