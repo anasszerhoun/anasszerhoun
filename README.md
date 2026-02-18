@@ -115,15 +115,6 @@ I'm a passionate Software Engineering student at the National School of Applied 
   <img src="https://img.shields.io/github/stars/anasszerhoun?style=social" alt="Stars">
 </p>
 
-## Recent Activity 🔥
-
-<!--START_SECTION:activity-->
-1. 🔨 Pushed updates to [anasszerhoun](https://github.com/anasszerhoun/anasszerhoun)
-2. 🎉 Created the repository [agenceDeLocation](https://github.com/anasszerhoun/agenceDeLocation)
-3. 🤝 Contributed to [TransBus](https://github.com/anasszerhoun/TransBus)
-4. 📝 Updated README files across multiple repositories
-<!--END_SECTION:activity-->
-
 ## Certifications 🏆
 
 
