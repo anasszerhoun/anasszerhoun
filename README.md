@@ -8,7 +8,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Software Engineering student at the National School of Applied Sciences of Khouribga. With a strong foundation in computer science and a knack for problem-solving, I've honed my programming skills through academic coursework and hands-on projects. My goal is to create innovative and efficient solutions in the field of software engineering.
+I'm a passionate Software Engineering student at the National School of Applied Sciences of Khouribga(ENSA). With a strong foundation in computer science and a knack for problem-solving, I've honed my programming skills through academic coursework and hands-on projects. My goal is to create innovative and efficient solutions in the field of software engineering.
 
 <div align="center">
     <a href="https://anaszerhoun.vercel.app" target="_blank" >
